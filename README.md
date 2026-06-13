@@ -1,12 +1,18 @@
 # Hi, I'm David Cataluddi
 
-🇫🇷 Cybersecurity student
+Cybersecurity student
 
 ## About Me
 
 - Learning cybersecurity through hands-on practice
 - Interested in Web Security, Linux and Networking
 - Active on Hack The Box and HTB Academy
+
+## Languages
+
+- 🇫🇷 French (Native)
+- 🇮🇹 Italian
+- 🇬🇧 English
 
 ## Skills
 
