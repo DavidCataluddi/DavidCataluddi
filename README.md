@@ -30,5 +30,3 @@ Cybersecurity student
 
 - Linux Privilege Escalation
 - Python
-- SQL injection
-- File Upload Vulnerabilities
