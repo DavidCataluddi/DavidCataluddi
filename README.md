@@ -19,6 +19,7 @@ Cybersecurity student
 - Linux
 - Networking
 - Python Basics
+- Enumeration & Recon
 - Web Security Basics
 
 ## Platforms
@@ -28,5 +29,5 @@ Cybersecurity student
 
 ## Currently Learning
 
-- Linux Privilege Escalation
+- Web Exploitation
 - Python
